@@ -1,6 +1,4 @@
-[
-  {
-    "Product": "ab",
+[{"Product": "ab",
     "Temp": "ab",
     "Filement": "ab",
     "Amount": "ab",
@@ -10,5 +8,5 @@
     "MSRP": "1.3",
     "Size": "1.3",
     "Brand": "bb"
-  }
-]
+	"GraphicName": "Graphic"
+  }]
